@@ -14,4 +14,6 @@
 ### INFRA/TOOLS
 이클립스, 인텔리제이, vscode, slack
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seokpyo&show_icons=true&theme=radical)
